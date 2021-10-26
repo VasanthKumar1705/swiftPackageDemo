@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MyLibrary",
+        "repositoryURL": "https://github.com/VasanthKumar1705/MyLibrary.git",
+        "state": {
+          "branch": "main",
+          "revision": "36f115c93058b32c022794ed5a589b006a53c154",
+          "version": null
+        }
+      },
+      {
+        "package": "NextViewController",
+        "repositoryURL": "https://github.com/VasanthKumar1705/NextViewController.git",
+        "state": {
+          "branch": "main",
+          "revision": "917580096b0f5e416a9cc0ed7b6a3f0ddb504b65",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
